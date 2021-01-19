@@ -11,7 +11,7 @@
       <h6 class="mb-2">
         <i class="fa fa-list-alt"></i> Dados gerais
       </h6>
-      <!-- V-IF sé redenriza o elemento se requisição for atendida, já o V-SHOW: apenas esconde o elemento com o display none -->
+      <!-- V-IF sé redenriza o elemento se requissição for atendida, já o V-SHOW: apenas esconde o elemento com o display none -->
       <input type="hidden" id="produto-id" v-model="produto.id" />
 
       <b-row>
